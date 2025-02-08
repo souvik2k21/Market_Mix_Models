@@ -110,14 +110,4 @@ The Market Mix Modeling (MMM) project aims to analyze and quantify the impact of
 - **Media_Data.xlsx** - Marketing data for analysis.
 - **README.md** - Project documentation.
 
-## Future Improvements
-- Fine-tuning tree-based models for better performance.
-- Exploring deep learning approaches for sales prediction.
-- Automating data ingestion for real-time predictions.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-[Your Name](https://github.com/yourusername)
 
